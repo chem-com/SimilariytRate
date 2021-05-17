@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Similarity1", "Similarity1\Similarity1.csproj", "{ED083206-1BE9-4561-B191-715004217083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimilarityRateCalcute", "SimilarityRateCalcute\SimilarityRateCalcute.csproj", "{7ED49221-4F6D-413A-A8A1-C7366C68235A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED083206-1BE9-4561-B191-715004217083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED083206-1BE9-4561-B191-715004217083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED083206-1BE9-4561-B191-715004217083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED083206-1BE9-4561-B191-715004217083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED49221-4F6D-413A-A8A1-C7366C68235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED49221-4F6D-413A-A8A1-C7366C68235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED49221-4F6D-413A-A8A1-C7366C68235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED49221-4F6D-413A-A8A1-C7366C68235A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEC2B16-104A-4E00-A781-861CCD00C6D9}
+	EndGlobalSection
+EndGlobal
